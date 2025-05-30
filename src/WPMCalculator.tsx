@@ -258,7 +258,7 @@ const WASPASCalculator: React.FC = () => {
 <div className="container mx-auto p-8 bg-gray-900 rounded-xl shadow-lg max-w-5xl my-10 text-gray-100">
 
             <h1 className="text-4xl font-extrabold text-center mb-8">
-                Kalkulator WASPAS (Weighted Aggregated Sum Product Assessment)
+                Kalkulator WASPAS <br /> <i className="fa-italic font-normal">Weighted Aggregated Sum Product Assessment</i>
             </h1>
             <hr className="my-8 border-gray-700" />
 
