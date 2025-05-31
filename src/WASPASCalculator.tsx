@@ -1,4 +1,3 @@
-// src/WPMCalculator.tsx
 import React, { useState, useEffect } from 'react';
 
 interface AlternativeData {
