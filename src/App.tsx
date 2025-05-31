@@ -1,6 +1,6 @@
 // src/App.tsx
 // import React from 'react';
-import WPMCalculator from './WPMCalculator'; // Impor komponen kita
+import WPMCalculator from './WASPASCalculator'; // Impor komponen kita
 
 function App() {
   return (
